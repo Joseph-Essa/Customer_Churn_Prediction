@@ -1,4 +1,4 @@
-# Churn Prediction 📉
+# Churn Prediction 📉 (project still in progress )
 
 This repository contains a Jupyter Notebook for predicting customer churn. The goal is to identify customers who are likely to cancel their contracts soon, enabling the company to take proactive measures to retain them. This is a binary classification problem, where the target variable is "churn" (yes/no).
 
