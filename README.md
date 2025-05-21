@@ -1,4 +1,4 @@
-# Churn Prediction 📉 (Note: Project still in progress )
+# Churn Prediction 📉 
 
 This repository contains a Jupyter Notebook for predicting customer churn. The goal is to identify customers who are likely to cancel their contracts soon, enabling the company to take proactive measures to retain them. This is a binary classification problem, where the target variable is "churn" (yes/no).
 
@@ -61,6 +61,8 @@ Logistic Regression was chosen as the classification model for churn prediction.
 ## Training and Evaluation After EDA 📈
 
 After conducting EDA, the training and evaluation process was repeated:
+
+## (Note: Project still in progress )
 
 * **Handling Imbalanced Churn Data**: The imbalanced `Churn` data needed to be addressed.
 * **Oversampling**: Oversampling was applied to generate synthetic compositions to balance the dataset's distribution.
