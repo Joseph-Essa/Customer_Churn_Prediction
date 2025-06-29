@@ -65,5 +65,3 @@ After conducting EDA, the training and evaluation process was repeated:
 * **Handling Imbalanced Churn Data**: The imbalanced `Churn` data needed to be addressed.
 * **Oversampling**: Oversampling was applied to generate synthetic compositions to balance the dataset's distribution.
 * **Feature Selection**: The most important categorical features were kept based on their high Mutual Information (MI) Score.
-* 
-## (Note: Project still in progress )
